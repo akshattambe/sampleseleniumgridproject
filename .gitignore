@@ -1,0 +1,7 @@
+.idea
+reports
+*.iml
+debug.log
+target
+build
+*.jpeg
